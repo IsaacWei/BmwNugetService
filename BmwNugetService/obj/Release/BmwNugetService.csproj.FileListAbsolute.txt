@@ -1,0 +1,64 @@
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Elmah.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.XmlTransform.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Ninject.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\NuGet.Core.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\NuGet.Server.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\RouteMagic.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\WebActivatorEx.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Ninject.pdb
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\bin\Ninject.xml
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb
+c:\users\w64319\documents\visual studio 2015\Projects\WebApplication1\WebApplication1\obj\Release\BmwNugetService.csprojResolveAssemblyReference.cache
+D:\code source\BmwNugetService\BmwNugetService\bin\roslyn\csc.exe
+D:\code source\BmwNugetService\BmwNugetService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\code source\BmwNugetService\BmwNugetService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\code source\BmwNugetService\BmwNugetService\bin\roslyn\System.Collections.Immutable.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\roslyn\System.Reflection.Metadata.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\roslyn\vbc.exe
+D:\code source\BmwNugetService\BmwNugetService\bin\roslyn\VBCSCompiler.exe
+D:\code source\BmwNugetService\BmwNugetService\bin\roslyn\VBCSCompiler.exe.config
+D:\code source\BmwNugetService\BmwNugetService\bin\WebApplication1.dll.config
+D:\code source\BmwNugetService\BmwNugetService\bin\WebApplication1.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\WebApplication1.pdb
+D:\code source\BmwNugetService\BmwNugetService\bin\Elmah.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\Microsoft.Web.Infrastructure.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\Microsoft.Web.XmlTransform.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\Newtonsoft.Json.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\Ninject.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\NuGet.Core.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\NuGet.Server.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\RouteMagic.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\WebActivatorEx.dll
+D:\code source\BmwNugetService\BmwNugetService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\code source\BmwNugetService\BmwNugetService\bin\Newtonsoft.Json.xml
+D:\code source\BmwNugetService\BmwNugetService\bin\Ninject.pdb
+D:\code source\BmwNugetService\BmwNugetService\bin\Ninject.xml
+D:\code source\BmwNugetService\BmwNugetService\obj\Release\BmwNugetService.csprojResolveAssemblyReference.cache
+D:\code source\BmwNugetService\BmwNugetService\obj\Release\WebApplication1.dll
+D:\code source\BmwNugetService\BmwNugetService\obj\Release\WebApplication1.pdb

@@ -1,0 +1,4 @@
+D:\code source\BmwNugetService\dirtest\bin\Debug\dirtest.dll
+D:\code source\BmwNugetService\dirtest\bin\Debug\dirtest.pdb
+D:\code source\BmwNugetService\dirtest\obj\Debug\dirtest.dll
+D:\code source\BmwNugetService\dirtest\obj\Debug\dirtest.pdb

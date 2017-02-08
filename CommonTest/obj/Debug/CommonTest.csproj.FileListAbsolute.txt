@@ -1,0 +1,4 @@
+D:\code source\BmwNugetService\CommonTest\bin\Debug\CommonTest.dll
+D:\code source\BmwNugetService\CommonTest\bin\Debug\CommonTest.pdb
+D:\code source\BmwNugetService\CommonTest\obj\Debug\CommonTest.dll
+D:\code source\BmwNugetService\CommonTest\obj\Debug\CommonTest.pdb
